@@ -29,7 +29,7 @@ There are two documents to pay attention:
 ## Contact Me
 If you have any questions or would like to collaborate, feel free to reach out to me at:
 - **LinkedIn**: [@Diana da Silva](https://www.linkedin.com/in/diana-da-silva-01694a1a3/)
-- **GitHub**: [@]dsilva1994(https://github.com/dsilva1994)
+- **GitHub**: [@dsilva1994](https://github.com/dsilva1994)
 
 ---
 

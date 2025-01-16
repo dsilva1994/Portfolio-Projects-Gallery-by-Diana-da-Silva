@@ -14,7 +14,7 @@ This repository serves as a centralized location for my portfolio projects. You 
 - **Unlocking The Impact of Weekday Duration Dynamics on Campaign Performance**:  
 A report analyzing marketing campaign performance for the Google Merch Store using Google Analytics, SQL, BigQuery, and Power BI.  
 There are two documents to pay attention:
-- **Dashboard**: Named "Dashboard - Weekday Duration Dynamics on Campaign Performance".
+- **[Dashboard]**: (Dashboard - Weekday Duration Dynamics on Campaign Performance.pdf) Named "Dashboard - Weekday Duration Dynamics on Campaign Performance".
 - **Report**: Named "Unlocking The Impact of Weekday Duration Dynamics on Campaign Performance - Report".
 
 

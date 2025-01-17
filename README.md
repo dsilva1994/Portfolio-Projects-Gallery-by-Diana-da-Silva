@@ -1,22 +1,50 @@
+# Unlocking The Impact of Weekday Duration Dynamics on Campaign Performance
 
-Welcome to the **Portfolio-Projects-Gallery** repository!  
-This is where I store all my project documentation, enabling me to easily link them to my GitHub Pages website, as demonstrated in the video.  
+This repository contains the assets and documentation for the project **Unlocking The Impact of Weekday Duration Dynamics on Campaign Performance**, which analyzes marketing campaign performance for the Google Merch Store using Google Analytics, SQL, BigQuery, and Power BI.
 
-## Overview
-This repository serves as a centralized location for my portfolio projects. You will find a variety of documents related to my work:
-- **Written Reports**: Detailed analyses, insights, and outcomes from my projects.
-- **Dashboards**: Visualization dashboards where applicable (e.g., Power BI, Tableau).
-- **Code**: For projects that involve coding. 
-- **Jupyter Notebooks**: Interactive notebooks for data analysis. 
-- **Shared Content**: Some projects may include code, while others—due to their integration with coursework—cannot be shared.
+---
 
-## Projects Included
-- **Unlocking The Impact of Weekday Duration Dynamics on Campaign Performance**:  
-A report analyzing marketing campaign performance for the Google Merch Store using Google Analytics, SQL, BigQuery, and Power BI.  
-There are two documents to pay attention:
-- **Dashboard**: Named "Dashboard - Weekday Duration Dynamics on Campaign Performance".
-- **Report**: Named "Unlocking The Impact of Weekday Duration Dynamics on Campaign Performance - Report".
+## Project Summary
 
+This project investigates how weekday dynamics affect marketing campaign outcomes. The analysis focused on answering the following key questions:
+
+### Key Questions:
+1. **Which campaigns drive the highest number of sessions and user engagement?**
+2. **Which campaigns perform best in terms of conversion rates and bounce rates?**
+3. **How do engagement metrics vary between weekdays and weekends?**
+4. **What are the primary traffic sources?**
+5. **What is the relationship between user engagement and revenue?**
+
+
+### Insights and Recommendations:
+1. **Take successful strategies in Black Friday and Holiday to other campaigns for optimisation.**
+2. **Enhance user experiences to increase session durations, particularly the 5–30 minute range.**
+3. **Lower the bounce rate by improving page design and content relevance, among other things.**
+4. **Make ad spending match times of highest engagement: for most, this is weekdays; for Black Friday, it's during weekends.**
+5. **Rebuild New Year and Data Share Promo campaigns, considering their worst performance in ROI and conversion rates.**
+
+
+These findings inform actionable recommendations for optimizing marketing strategies based on weekday trends.
+
+---
+
+## Tools and Techniques Used
+
+- **SQL**: For advanced data preparation and exploration.
+- **BigQuery**: To handle large-scale data queries and aggregation.
+- **Power BI**: To create interactive dashboards and visualize key metrics.
+
+---
+
+## Deliverables
+
+- **Dashboard**: 
+  - Name: `Dashboard - Weekday Duration Dynamics on Campaign Performance`
+  - A dynamic visualization highlighting key metrics like CTR, CPA, ROI, and engagement trends.
+
+- **Report**: 
+  - Name: `Report - Unlocking The Impact of Weekday Duration Dynamics on Campaign Performance`
+  - A detailed written analysis of the project's methodology, results, and recommendations.
 
 
 
